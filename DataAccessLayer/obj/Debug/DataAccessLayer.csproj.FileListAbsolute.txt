@@ -1,0 +1,9 @@
+C:\Users\onurc\Desktop\udemy projeler\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\onurc\Desktop\udemy projeler\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\onurc\Desktop\udemy projeler\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\onurc\Desktop\udemy projeler\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\onurc\Desktop\udemy projeler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\onurc\Desktop\udemy projeler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\onurc\Desktop\udemy projeler\DataAccessLayer\obj\Debug\DataAcce.E67BD773.Up2Date
+C:\Users\onurc\Desktop\udemy projeler\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\onurc\Desktop\udemy projeler\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
